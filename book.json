@@ -1,0 +1,31 @@
+{
+  "gitbook": "3.1.1",
+  "title": "Book RxJS",
+  "plugins": [
+    "include-codeblock",
+    "advanced-emoji",
+    "prism",
+    "highlight",
+    "copy-code-button",
+    "edit-link",
+    "github",
+    "github-buttons"
+  ],
+  "pluginsConfig": {
+    "edit-link": {
+      "base": "https://github.com/nguyenmanhtuan93/book-rxjs/tree/master",
+      "label": "Edit This Page"
+    },
+    "github": {
+      "url": "https://github.com/nguyenmanhtuan93/book-rxjs/"
+    },
+    "github-buttons": {
+      "repo": "nguyenmanhtuan93/book-rxjs",
+      "types": [
+        "star",
+        "watch"
+      ],
+      "size": "large"
+    }
+  }
+}
